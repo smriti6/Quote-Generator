@@ -44,7 +44,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     height: 200px;
     width: 150px;
     opacity: 1;
