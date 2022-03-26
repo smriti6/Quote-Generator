@@ -1,2 +1,2 @@
 # Getting Started with Create React App
-![Screenshot](d.jpg)
+![alt text](https://github.com/smriti6/Quote-Generator/blob/main/src/images/city.jpg)
